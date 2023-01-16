@@ -40,12 +40,15 @@
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabriel-moreira-028a28a6" target="_blank">
     <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+   </a>
 </div>
 
 ## GitHub Stats
 <table>
 <tr><td>
-  <a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielgslm&theme=chartreuse-dark_icons=true)</a>
+  <a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielgslm&theme=chartreuse-dark_icons=true)
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielgslm&show_icons=true&theme=chartreuse-dark" />
+  </a>
 </td><td>
   <a></a>
 </td></tr>
