@@ -36,10 +36,10 @@
 ## Contato
 <div>
   <a style="margin-right: 15px;" href="mailto:gabrielmoreira7077@gmail.com" target="_blank">
-    <img width="64px" height="40px" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img width="80px" height="40px" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabriel-moreira-028a28a6" target="_blank">
-    <img width="64px" height="40px" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="80px" height="40px" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 </div>
 
