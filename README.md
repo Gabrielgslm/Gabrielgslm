@@ -39,7 +39,7 @@
     <img width="64px" alt="gmail" src="./images/gmail.png" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabriel-moreira-028a28a6" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+    <img width="64px" alt="linkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
    </a>
 </div>
 
