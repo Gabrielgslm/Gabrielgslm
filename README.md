@@ -46,7 +46,7 @@
 ## GitHub Stats
 <table>
 <tr><td>
-  <a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielgslm&theme=chartreuse-dark_icons=true)
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielgslm&show_icons=true&theme=chartreuse-dark" />
   </a>
 </td><td>
