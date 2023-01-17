@@ -3,7 +3,7 @@
 <div aling="justify">
   Me chamo Gabriel Artur Gomes Sancho de Lemos Moreira, sim eu sei que meu nome é enorme, então pode me chamar como preferir 🫡 
   Tenho 26 anos e me apaixonei por tecnologia recentemente, em um momento crucial na minha vida no ano de 2021. O que me motivou e me fez ser a pessoa mais feliz do mundo foi minha filha, Manuela, ela é minha motivação diaria para me tornar uma pessoa melhor. Através dela que tive coragem de fazer a transição de carreira e foi a melhor coisa que já aconteceu, conheci o desenvolvimento web e foi amor a primeira vista, hoje vejo como é maravilhoso poder impactar na vida das pessoas de forma positiva através da tecnologia e ter a oportunidade de fazer isso tudo de forma remota para poder estar presente na vida dela.
-</div>
+</div><br>
 
 <div>
   Se quiser bater um papo e me conhecer melhor é só me chamar, posso garantir que teremos um papo leve e será divertido demais poder aprender e compartilhar    experiências.
