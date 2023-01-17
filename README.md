@@ -2,8 +2,7 @@
 
 <div aling="justify">
   Me chamo Gabriel Artur Gomes Sancho de Lemos Moreira, sim eu sei que meu nome é enorme, então pode me chamar como preferir 🫡
-  Tenho 26 anos e me apaixonei por tecnologia recentemente, em um momento crucial na minha vida. O que me motivou e me fez ser a pessoa mais feliz do mundo 
-  foi minha filha, Manuela, ela que é minha motivação diaria para me tornar uma pessoa melhor. Através dela que resolvi tomar um rumo na vida e foi a melhor coisa
+  Tenho 26 anos e me apaixonei por tecnologia recentemente, em um momento crucial na minha vida no ano de 2021. O que me motivou e me fez ser a pessoa mais feliz do mundo foi minha filha, Manuela, ela é minha motivação diaria para me tornar uma pessoa melhor. Através dela que resolvi tomar um rumo na vida e foi a melhor coisa
   que já aconteceu, conheci o desenvolvimento web e foi amor a primeira vista, hoje vejo como é maravilhoso poder impactar na vida das pessoas de forma positiva
   através da tecnologia.
 </div>
